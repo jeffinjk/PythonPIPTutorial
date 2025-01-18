@@ -1,2 +1,2 @@
 # PythonPIPTutorial
-For Python TutoriALS
+For Python Tutorials
