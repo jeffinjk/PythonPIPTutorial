@@ -1,7 +1,2 @@
-j="Programming"
-for j in range(2,10,4):
-    print(j)
-    
-    
-    
-# Output:2 6
+x="Programmingg"
+print(x[2:11:4])
