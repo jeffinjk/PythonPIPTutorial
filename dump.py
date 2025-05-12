@@ -1,2 +1,3 @@
-print(9//2)
-print(9/2)
+x="abcd"
+for i in range(len(x)):
+    print(i)
