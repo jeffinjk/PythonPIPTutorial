@@ -1,2 +1,2 @@
 x="Programmingg"
-print(x[2:11:4])
+print(x[3:-9:])
